@@ -1,1 +1,1 @@
-[ {"title": "Equinix Org 1", "resourceType": "ORG", "lazy": true }, {"title": "Equinix Org 2", "folder": true, "resourceType": "ORG", "lazy": true } ]
+[ {"title": "Equinix Org 1", "type" : "ORG", "resourceType": "ORG", "lazy": true }, {"title": "Equinix Org 2", "type" : "ORG", "folder": true, "resourceType": "ORG", "lazy": true } ]
