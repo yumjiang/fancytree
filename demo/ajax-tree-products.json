@@ -7,7 +7,7 @@
           {
             "title": "101_DA_GN_Salman_ACL", "type": "ACL_TEMPLATE", "resourceType": "ACL_TEMPLATE", 
               "billingAccountId":"", "status": "CREATED", "metroCode" : "",
-						  "info": "<div>resourceId :  9acbaab8-7a38-4821-847b-9a90391f31d8</div><div>assetType :  ACL_TEMPLATE</div><div>resourceType :  ACL_TEMPLATE</div><div>productReferenceId :  743f9b91-2eb2-485d-84ad-724a9fc01cdc</div><div>projectId :  f1a596ed-d24a-497c-92a8-44e0923cee62</div><div>assetName :  01_DA_GN_Salman_ACL</div><div>name :  01_DA_GN_Salman_ACL</div><div>status :  CREATED</div><div>moveAllowed : true</div><div>sourceApplicationId :  NE</div><div>additionalAssociations : []</div><div>createdDateTime :  2024-01-13T06:40:15.824Z</div><div>updatedDateTime :  2024-01-13T06:40:15.824Z </div>"
+						  "moreInfo": "<div>resourceId :  9acbaab8-7a38-4821-847b-9a90391f31d8</div><div>assetType :  ACL_TEMPLATE</div><div>resourceType :  ACL_TEMPLATE</div><div>productReferenceId :  743f9b91-2eb2-485d-84ad-724a9fc01cdc</div><div>projectId :  f1a596ed-d24a-497c-92a8-44e0923cee62</div><div>assetName :  01_DA_GN_Salman_ACL</div><div>name :  01_DA_GN_Salman_ACL</div><div>status :  CREATED</div><div>moveAllowed : true</div><div>sourceApplicationId :  NE</div><div>additionalAssociations : []</div><div>createdDateTime :  2024-01-13T06:40:15.824Z</div><div>updatedDateTime :  2024-01-13T06:40:15.824Z </div>"
           }
       ]},
       {"title": "Project-91937", "type": "project", "resourceType": "project", "folder": true, "children": [
