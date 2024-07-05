@@ -36,6 +36,6 @@
           {"title": "102806-AM5-CX-SEC-01", "type": "PORT", "resourceType": "PORT", "billingAccountId":"E-102806", "status" : "ACTIVE", "metroCode" : "CA"}
       ]}
 		]},
-    {"title": "More...", "folder": true, "lazy": true}
+    {"title": "More...", "folder": true, "lazy": true, "resourceType": "MORE", "metroCode" : "ORG", "rootId" : "rootId"}
 	]}
 ]
